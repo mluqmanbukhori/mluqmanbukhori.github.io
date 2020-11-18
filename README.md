@@ -1,5 +1,5 @@
 # mluqmanbukhori.github.io
-This repository for pages website about me
+Repositori ini digunakan untuk menampilkan website pribadi
 
-# custome domain untuk repository page
+# Tutorial custom domain untuk repository page github
 https://medium.com/@HazuliFidastian/custom-domain-di-github-f7c8b7ce13c
